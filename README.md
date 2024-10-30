@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DANR1BEIRO
-- 👀 I’m interested in backend
+- 👀 I’m interested in backend python
 - 🌱 I’m currently learning python
 - 📫 How to reach me danribeiro001@gmail.com
 
