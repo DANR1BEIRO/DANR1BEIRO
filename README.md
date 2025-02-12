@@ -1,3 +1,4 @@
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DANR1BEIRO.DANR1BEIRO" />
 
 <h1 align="center">
@@ -26,8 +27,6 @@
   <a href="https://www.linkedin.com/in/danr1beiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 
-<img src="https://s13.gifyu.com/images/b2d1W.gif">
-
 
   <h2 align="center"> Languages and Tools 💻⚒️</h2>
   <br/>
@@ -45,5 +44,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DANR1BEIRO/DANR1BEIRO/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DANR1BEIRO/DANR1BEIRO/output/github-snake.svg" />
 </picture>
+
+
+<p><img src="https://s3.gifyu.com/images/b2AuG.gif"></p>
 
   
