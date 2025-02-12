@@ -46,4 +46,9 @@
 
 <p><img src="https://s3.gifyu.com/images/b2AuG.gif"></p>
 
+<div align="center">
+    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANR1BEIRO&layout=compact&langs_count=16&theme=gotham"/>
+</div>
+
   
