@@ -13,9 +13,7 @@
  
  🏗️ I currently work as a crane operator, but I am looking for a career change.
  
- 🎓📚📖 I’m currently studying: **Systems Analysis and Development (in college), Python and Data Structures and Algorithms**
-
-💬 Ask me about **Python... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 🎓📚📖 I’m currently studying: **Systems Analysis and Development (in college), Python and Data Structures and Algorithms*
 
 
  </div>
