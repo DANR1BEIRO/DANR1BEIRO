@@ -31,7 +31,7 @@
 <div align="center">
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,python,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,python,java,vscode" /><br>
 </div>
 
 <br/>
