@@ -13,7 +13,7 @@
  
  🏗️ I currently work as a crane operator, but I am looking for a career change.
  
- 🎓📚📖 I’m currently studying: *Software Engineering (in college), Python, Java and Data Structures and Algorithms*
+ 🎓📚📖 I’m currently studying: *Software Engineering (in college), Java and Data Structures and Algorithms*
 
 
  </div>
@@ -31,7 +31,7 @@
 <div align="center">
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,python,java,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,java,python,vscode" /><br>
 </div>
 
 <br/>
