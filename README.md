@@ -5,18 +5,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Daniel+Ribeiro!;" />
 </h1>
 
-<h3 align="center">A beginner in programming from Brazil 🇧🇷</h3>
-
-<br/>
-
-<div align="center">
- 
- 🏗️ I currently work as a crane operator, but I am looking for a career change.
- 
- 🎓📚📖 I’m currently studying: *Software Engineering (in college), Java and Data Structures and Algorithms*
-
+<h3 align="left">Sobre mim: </h3>
+<div align="left">
+👨🏻‍🎓 Sou graduando em Engenharia de Software.<br>
+💼 Trabalho como operador de máquinas no setor portuário e estou buscando<br>
+a tão sonhada mudança de carreira para a área da tecnologia.<br>
+📚 Atualmente, estou direcionando meus estudos para o desenvolvimento backend,<br> buscando aprofundar
+meus conhecimentos nessa área. No entanto, mantenho uma<br>postura aberta e proativa para aprender
+novas tecnologias e expandir minhas habilidades constantemente.
 
  </div>
+ <br/>
+
  
 <div align="center"> 
   <a href="mailto:danribeirodev@gmail.com">
@@ -26,10 +26,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
 
 
-  <h2 align="center"> Languages and Tools 💻⚒️</h2>
+  <h2 align="center"> Ferramentas</h2>
   <br/>
-<div align="center">
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,java,python,vscode" /><br>
 </div>
