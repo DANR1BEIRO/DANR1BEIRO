@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=DANR1BEIRO.DANR1BEIRO" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Daniel+Ribeiro!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=100&duration=5000&lines=Hello,+World!+👋;+I'm+Daniel+Ribeiro!+😁;" />
 </h1>
 
 <div align="center"> 
@@ -26,13 +26,13 @@
 Graduando em Engenharia de Software.<br>
 
 - 💼 Trabalho como: Sou operador de máquinas no setor portuário e estou buscando a tão sonhada mudança de carreira para a área da tecnologia.<br>
-- 📚 Estudos: Atualmente, estou direcionando meus estudos para o desenvolvimento backend (com foco em Java), buscando aprofundar meus conhecimentos nessa área. No entanto, mantenho uma postura aberta e proativa para aprender novas tecnologias e expandir minhas habilidades constantemente.<br>
+- 📚 Estudos: Atualmente estou direcionando meus estudos para o desenvolvimento backend (com foco em Java), buscando aprofundar meus conhecimentos nessa área. No entanto, mantenho uma postura aberta e proativa para aprender novas tecnologias e expandir minhas habilidades constantemente.<br>
 Cursando: Dev. Full Stack Jr. 2025 (+praTi & Codifica)<br>
 Cursando: Bradesco - Java Cloud Native (plataforma DIO)<br>
 Cursando: Maratona Java devDojo (youtube)
     </td>
     <td>
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejYzcWFlemt1c2FwaGljdnJ3YWk1bHVzajVvM2Q5cnMxcHRlcm9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" alt="GIF" width="400">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RscjU1dmd5cTV1MHJ2cHhjbmMyZ3ZqYWoxOXlnY2hvMjVkdWNvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" alt="GIF" width="400">
     </td>
   </tr>
 </table>
@@ -43,7 +43,7 @@ Cursando: Maratona Java devDojo (youtube)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,java,python,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,java,python,idea,vscode" />
   </a>
 </p>
 
