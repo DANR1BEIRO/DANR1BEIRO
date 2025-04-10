@@ -5,32 +5,47 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Daniel+Ribeiro!;" />
 </h1>
 
-<h3 align="left">Sobre mim: </h3>
-<div align="left">
-👨🏻‍🎓 Sou graduando em Engenharia de Software.<br>
-💼 Trabalho como operador de máquinas no setor portuário e estou buscando<br>
-a tão sonhada mudança de carreira para a área da tecnologia.<br>
-📚 Atualmente, estou direcionando meus estudos para o desenvolvimento backend,<br> buscando aprofundar
-meus conhecimentos nessa área. No entanto, mantenho uma<br>postura aberta e proativa para aprender
-novas tecnologias e expandir minhas habilidades constantemente.
-
- </div>
- <br/>
-
- 
 <div align="center"> 
   <a href="mailto:danribeirodev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/danr1beiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+     </a>
+    
+<table>
+  <tr>
+    <td>
+    <div align="left"> 
+
+**Sobre mim:**
 
 
-  <h2 align="center"> Ferramentas</h2>
-  <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,java,python,vscode" /><br>
+
+- 🎓 Formação:<br>
+Graduando em Engenharia de Software.<br>
+
+- 💼 Trabalho como: Sou operador de máquinas no setor portuário e estou buscando a tão sonhada mudança de carreira para a área da tecnologia.<br>
+- 📚 Estudos: Atualmente, estou direcionando meus estudos para o desenvolvimento backend (com foco em Java), buscando aprofundar meus conhecimentos nessa área. No entanto, mantenho uma postura aberta e proativa para aprender novas tecnologias e expandir minhas habilidades constantemente.<br>
+Cursando: Dev. Full Stack Jr. 2025 (+praTi & Codifica)<br>
+Cursando: Bradesco - Java Cloud Native (plataforma DIO)<br>
+Cursando: Maratona Java devDojo (youtube)
+    </td>
+    <td>
+      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejYzcWFlemt1c2FwaGljdnJ3YWk1bHVzajVvM2Q5cnMxcHRlcm9zMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cFdHXXm5GhJsc/giphy.gif" alt="GIF" width="400">
+    </td>
+  </tr>
+</table>
 </div>
+
+  <h2 align="center"> Ferramentas:</h2>
+  <br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,java,python,idea,vscode" />
+  </a>
+</p>
 
 <br/>
 <hr/>
@@ -40,9 +55,6 @@ novas tecnologias e expandir minhas habilidades constantemente.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DANR1BEIRO/DANR1BEIRO/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DANR1BEIRO/DANR1BEIRO/output/github-snake.svg" />
 </picture>
-
-
-<p><img src="https://s3.gifyu.com/images/b2AuG.gif"></p>
 
 <div align="center">
     <br/>
