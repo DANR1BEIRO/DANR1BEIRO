@@ -27,9 +27,10 @@ Graduando em Engenharia de Software.<br>
 
 - 💼 Trabalho como: Sou operador de máquinas no setor portuário e estou buscando a tão sonhada mudança de carreira para a área da tecnologia.<br>
 - 📚 Estudos: Atualmente estou direcionando meus estudos para o desenvolvimento backend (com foco em Java), buscando aprofundar meus conhecimentos nessa área. No entanto, mantenho uma postura aberta e proativa para aprender novas tecnologias e expandir minhas habilidades constantemente.<br/><br>
-Cursando: Dev. Full Stack Jr. 2025 (+praTi & Codifica)<br>
-Cursando: Bradesco - Java Cloud Native (plataforma DIO)<br>
-Cursando: Maratona Java devDojo (youtube)
+Cursando:<br>
+Dev. Full Stack Jr. 2025 (+praTi & Codifica)<br>
+Bradesco - Java Cloud Native (plataforma DIO)<br>
+Maratona Java devDojo (youtube)
     </td>
     <td>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RscjU1dmd5cTV1MHJ2cHhjbmMyZ3ZqYWoxOXlnY2hvMjVkdWNvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" alt="GIF" width="400">
