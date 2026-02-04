@@ -27,10 +27,6 @@ Graduando em Engenharia de Software.<br>
 
 - 💼 Trabalho como: Sou operador de máquinas no setor portuário e estou buscando a tão sonhada mudança de carreira para a área da tecnologia.<br>
 - 📚 Estudos: Atualmente estou direcionando meus estudos para o desenvolvimento backend (com foco em Java), buscando aprofundar meus conhecimentos nessa área. No entanto, mantenho uma postura aberta e proativa para aprender novas tecnologias e expandir minhas habilidades constantemente.<br/><br>
-Cursando:<br>
-Dev. Full Stack Jr. 2025 (+praTi & Codifica)<br>
-Bradesco - Java Cloud Native (plataforma DIO)<br>
-Maratona Java devDojo (youtube)
     </td>
     <td>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3RscjU1dmd5cTV1MHJ2cHhjbmMyZ3ZqYWoxOXlnY2hvMjVkdWNvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xoicctrOv5aGw6mCZi/giphy.gif" alt="GIF" width="400">
@@ -56,10 +52,3 @@ Maratona Java devDojo (youtube)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DANR1BEIRO/DANR1BEIRO/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/DANR1BEIRO/DANR1BEIRO/output/github-snake.svg" />
 </picture>
-
-<div align="center">
-    <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANR1BEIRO&layout=compact&langs_count=16&theme=gotham"/>
-</div>
-
-  
