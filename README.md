@@ -41,7 +41,7 @@ Graduando em Engenharia de Software.<br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,github,java,spring,python,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,git,github,java,spring,c,python,idea,vscode" />
   </a>
 </p>
 
