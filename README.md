@@ -21,8 +21,6 @@
 
 **Sobre mim:**
 
-
-
 - 🎓 Formação:<br>
 Graduando em Engenharia de Software.<br>
 
@@ -47,6 +45,11 @@ Graduando em Engenharia de Software.<br>
 
 <br/>
 <hr/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANR1BEIRO&layout=compact&theme=dark" alt="Top Langs" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DANR1BEIRO/DANR1BEIRO/output/github-snake-dark.svg" />
